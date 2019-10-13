@@ -24,3 +24,6 @@ git 툴말고 명령어 테스트
 3. git push -u origin master
 
 또 vi 저장 종료 :wq
+
+로컬 블로그 테스트 지킬 서버 실행 명령어
+bundle exec jekyll serve
